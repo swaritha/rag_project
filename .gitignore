@@ -1,0 +1,8 @@
+venv/
+venv310/
+**pycache**/
+*.pyc
+uploads/
+.env
+.cache/
+.pytest_cache/
